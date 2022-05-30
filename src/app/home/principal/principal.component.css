@@ -1,0 +1,43 @@
+.container__principal{
+  display: flex;
+  background-color: lightskyblue;
+}
+
+
+.principal__text{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+    color: aliceblue;
+}
+.text_principal{
+  line-height: 1.2;
+    margin-top: 40px;
+    font-size: 4.5rem;
+    line-height: 1;
+    margin-bottom: 25px;
+}
+.text_second{
+  margin: 0;
+    padding: 0;
+    margin-bottom: 12px;
+    line-height: 1.25em;
+    font-size: 24px;
+}
+
+.imagep{
+  width: 726px;
+    padding: 30px;
+}
+
+.container__school{
+  padding: 52px 170px;
+  display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    align-content: center;
+    background-color: gold;
+}
