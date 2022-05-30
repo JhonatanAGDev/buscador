@@ -9,40 +9,40 @@ export class CatalogoService {
 
     {
       id:1,
-      nombre: 'Manzana',
-      precio: '50',
+      nombre: 'Chevrolet Aveo',
+      precio: '150,000',
       descripcion:'lorem ',
-      imagen: '/assest/uno.jpeg'
+      imagen: '/assets/uno.jpg'
 
     },
     {
       id:2,
-      nombre: 'Fresa',
-      precio: '50',
+      nombre: 'Volkswagen Gol',
+      precio: '80,000',
       descripcion:'lorem ',
       imagen: '/assets/dos.jpg'
 
     },
     {
       id:3,
-      nombre: 'Naranja',
-      precio: '50',
+      nombre: 'Seat Leon',
+      precio: '190,000',
       descripcion:'lorem ',
       imagen: '/assets/tres.jpg'
 
     },
     {
       id:4,
-      nombre: 'Mango',
-      precio: '50',
+      nombre: 'Toyota Supra MK4',
+      precio: '1,000,000',
       descripcion:'lorem ',
       imagen: '/assets/cuatro.jpg'
 
     },
     {
       id:5,
-      nombre: 'Pera',
-      precio: '50',
+      nombre: 'Volkswagen Jetta VR6',
+      precio: '110,000',
       descripcion:'lorem ',
       imagen: '/assets/cinco.jpg'
 
